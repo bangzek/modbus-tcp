@@ -2,7 +2,7 @@ module github.com/bangzek/modbus-tcp
 
 go 1.25.4
 
-retract [v0.0.0, v0.2.0]
+retract [v0.0.0-00000000000000-000000000000, v0.3.0]
 
 require (
 	github.com/bangzek/clock v0.2.1
